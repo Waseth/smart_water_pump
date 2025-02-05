@@ -1,0 +1,17 @@
+Pump status unchanged. Water level: 52%
+Pump status unchanged. Water level: 39%
+Pump status unchanged. Water level: 77%
+Pump turned ON. Water level: 13%
+Pump status unchanged. Water level: 16%
+Pump status unchanged. Water level: 41%
+Pump status unchanged. Water level: 82%
+Pump status unchanged. Water level: 1%
+Pump status unchanged. Water level: 16%
+Pump status unchanged. Water level: 27%
+Pump status unchanged. Water level: 29%
+Pump status unchanged. Water level: 65%
+Pump status unchanged. Water level: 66%
+Pump status unchanged. Water level: 1%
+Pump status unchanged. Water level: 33%
+Pump turned OFF. Water level: 96%
+Pump status unchanged. Water level: 87%
